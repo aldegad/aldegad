@@ -1,13 +1,56 @@
-# darkest_alex
+## Hey there, I'm **darkest_alex** :wave:
 
-JUST HAPPY.
+> Developer who builds tools that make other developers' lives easier.
 
-## Open Source Contributions
+I ship browser tooling, security skills, AI utilities, and mobile plugins — mostly in **TypeScript**, **JavaScript**, and **Java**.
 
-A few public contributions I'm proud of:
+---
 
-- [KESE-KIT#2](https://github.com/cdppcorp/KESE-KIT/pull/2) — added repository validation guardrails and router consistency checks for a KISA-oriented security skill repository
-- [ai-token-monitor#66](https://github.com/soulduse/ai-token-monitor/pull/66) — added same-table multi-device leaderboard sync
-- [ai-token-monitor#46](https://github.com/soulduse/ai-token-monitor/pull/46) — improved Codex leaderboard message-count tracking
+### :hammer_and_wrench: Tech Stack
 
-I like shipping small, high-signal changes that make tools more reliable, easier to trust, and easier to maintain.
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Capacitor](https://img.shields.io/badge/-Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white)
+![Chrome Extensions](https://img.shields.io/badge/-Chrome_Extensions-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+---
+
+### :rocket: Projects
+
+| Project | Description | Stars |
+|---------|-------------|:-----:|
+| [**kuma-studio**](https://github.com/aldegad/kuma-studio) | Playwright-shaped browser sharing for coding agents — picks, job cards, and visible paw feedback in your real browser | ![Stars](https://img.shields.io/github/stars/aldegad/kuma-studio?style=flat-square&color=yellow) |
+| [**capacitor-geolocation**](https://github.com/aldegad/capacitor-geolocation) | Capacitor geolocation plugin for iOS & Android | ![Stars](https://img.shields.io/github/stars/aldegad/capacitor-geolocation?style=flat-square&color=yellow) |
+| [**usage-insights**](https://github.com/aldegad/usage-insights) | Codex skill for analyzing local AI usage and rendering shareable reports or videos | ![Stars](https://img.shields.io/github/stars/aldegad/usage-insights?style=flat-square&color=yellow) |
+
+---
+
+### :handshake: Open Source Contributions
+
+Contributions to projects I use and care about:
+
+| Project | What I Did | Stars |
+|---------|-----------|:-----:|
+| [**cdppcorp/KESE-KIT**](https://github.com/cdppcorp/KESE-KIT) | Repository validation guardrails & router consistency checks ([#2](https://github.com/cdppcorp/KESE-KIT/pull/2)) | ![Stars](https://img.shields.io/github/stars/cdppcorp/KESE-KIT?style=flat-square&color=yellow) |
+| [**soulduse/ai-token-monitor**](https://github.com/soulduse/ai-token-monitor) | Multi-device leaderboard sync ([#66](https://github.com/soulduse/ai-token-monitor/pull/66)), Codex message-count tracking ([#46](https://github.com/soulduse/ai-token-monitor/pull/46)) | ![Stars](https://img.shields.io/github/stars/soulduse/ai-token-monitor?style=flat-square&color=yellow) |
+
+---
+
+### :chart_with_upwards_trend: GitHub Stats
+
+<p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=aldegad&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldegad&layout=compact&hide_border=true&langs_count=6" />
+</p>
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aldegad&hide_border=true" />
+</p>
+
+---
+
+<sub>I like shipping small, high-signal changes that make tools more reliable, easier to trust, and easier to maintain.</sub>
