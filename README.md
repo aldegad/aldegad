@@ -26,6 +26,10 @@ I ship browser tooling, security skills, AI utilities, and mobile plugins — mo
 | [**kuma-studio**](https://github.com/aldegad/kuma-studio) | Playwright-shaped browser sharing for coding agents — picks, job cards, and visible paw feedback in your real browser | ![Stars](https://img.shields.io/github/stars/aldegad/kuma-studio?style=flat-square&color=yellow) |
 | [**capacitor-geolocation**](https://github.com/aldegad/capacitor-geolocation) | Capacitor geolocation plugin for iOS & Android | ![Stars](https://img.shields.io/github/stars/aldegad/capacitor-geolocation?style=flat-square&color=yellow) |
 | [**usage-insights**](https://github.com/aldegad/usage-insights) | Codex skill for analyzing local AI usage and rendering shareable reports or videos | ![Stars](https://img.shields.io/github/stars/aldegad/usage-insights?style=flat-square&color=yellow) |
+| [**security-threat-intel**](https://github.com/aldegad/security-threat-intel) | Security Threat Intelligence skill for AI code review agents — MITRE ATT&CK infostealer mapping, detection checklist, review guidelines | ![Stars](https://img.shields.io/github/stars/aldegad/security-threat-intel?style=flat-square&color=yellow) |
+| [**npm-reorg-guard**](https://github.com/aldegad/npm-reorg-guard) | Blockchain reorg concept applied to npm security — Claude Code skill that auto-detects and rolls back suspicious package changes | ![Stars](https://img.shields.io/github/stars/aldegad/npm-reorg-guard?style=flat-square&color=yellow) |
+| [**nano-banana**](https://github.com/aldegad/nano-banana) | Lightweight image generation skill for Claude Code, powered by Google Gemini API | ![Stars](https://img.shields.io/github/stars/aldegad/nano-banana?style=flat-square&color=yellow) |
+| [**my-agent-girlfriend**](https://github.com/aldegad/my-agent-girlfriend) | Playful local desktop companion for Codex — persona-driven reply renderer with preset anime-style portraits and a SwiftUI floating overlay | ![Stars](https://img.shields.io/github/stars/aldegad/my-agent-girlfriend?style=flat-square&color=yellow) |
 
 ---
 
