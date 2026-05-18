@@ -27,31 +27,58 @@
 
 ---
 
-### :sparkles: Agent Skills
+### 🛡 Foundations & Guardrails
 
-Small, focused skills for **Claude Code** and **Codex** — each one ships a single capability with verified outputs.
+> Core engineering and safety infrastructure for AI-assisted work.
 
-| Skill | What it does | Stars |
+| Project | What it does | Stars |
 |---|---|:-:|
+| **kuma-studio** *(준비중 — coming soon)* | Playwright-shaped browser sharing for coding agents — picks, job cards, and visible paw feedback in your real browser | — |
 | [**alex-core-invariants**](https://github.com/aldegad/alex-core-invariants) | Canonical six invariants for AI-assisted engineering — SSOT, SoC/SRP, consistency, atomicity, idempotency, no silent fallback | ![](https://img.shields.io/github/stars/aldegad/alex-core-invariants?style=flat-square&color=yellow&label=) |
-| [**image-gen**](https://github.com/aldegad/image-gen) | Codex `image_gen` wrapper with fresh exec isolation, verified output paths, chroma-key transparent PNG post-processing | ![](https://img.shields.io/github/stars/aldegad/image-gen?style=flat-square&color=yellow&label=) |
-| [**sprite-gen**](https://github.com/aldegad/sprite-gen) | 2D game sprite generation via component-row pipeline — state rows, alpha cleanup, frame extraction, runtime atlases | ![](https://img.shields.io/github/stars/aldegad/sprite-gen?style=flat-square&color=yellow&label=) |
-| [**tenstorrent**](https://github.com/aldegad/tenstorrent) | Tenstorrent `console.tenstorrent.com` skill — Wan 2.2 text-to-video + OpenAI-compatible chat (DeepSeek-R1 / Qwen3-32B / Qwen3-VL) | ![](https://img.shields.io/github/stars/aldegad/tenstorrent?style=flat-square&color=yellow&label=) |
-| [**security-threat-intel**](https://github.com/aldegad/security-threat-intel) | Threat intel skill for AI code review — MITRE ATT&CK infostealer mapping, detection checklist, review guidelines | ![](https://img.shields.io/github/stars/aldegad/security-threat-intel?style=flat-square&color=yellow&label=) |
 | [**npm-reorg-guard**](https://github.com/aldegad/npm-reorg-guard) | Blockchain reorg concept applied to npm — auto-detects and rolls back suspicious package changes | ![](https://img.shields.io/github/stars/aldegad/npm-reorg-guard?style=flat-square&color=yellow&label=) |
-| [**nano-banana**](https://github.com/aldegad/nano-banana) | Lightweight image generation skill for Claude Code, powered by Google Gemini API | ![](https://img.shields.io/github/stars/aldegad/nano-banana?style=flat-square&color=yellow&label=) |
-| [**usage-insights**](https://github.com/aldegad/usage-insights) | Codex skill for analyzing local AI usage and rendering shareable reports / videos | ![](https://img.shields.io/github/stars/aldegad/usage-insights?style=flat-square&color=yellow&label=) |
+| [**security-threat-intel**](https://github.com/aldegad/security-threat-intel) | Threat intel skill for AI code review — MITRE ATT&CK infostealer mapping, detection checklist, review guidelines | ![](https://img.shields.io/github/stars/aldegad/security-threat-intel?style=flat-square&color=yellow&label=) |
 
 ---
 
-### :rocket: Apps & CLIs
+### 🎨 Image Generation
 
-| Project | Description | Stars |
+> Generation skills with verified outputs and clean post-processing.
+
+| Project | What it does | Stars |
 |---|---|:-:|
+| [**image-gen**](https://github.com/aldegad/image-gen) | Codex `image_gen` wrapper with fresh exec isolation, verified output paths, chroma-key transparent PNG post-processing | ![](https://img.shields.io/github/stars/aldegad/image-gen?style=flat-square&color=yellow&label=) |
+| [**sprite-gen**](https://github.com/aldegad/sprite-gen) | 2D game sprite generation via component-row pipeline — state rows, alpha cleanup, frame extraction, runtime atlases | ![](https://img.shields.io/github/stars/aldegad/sprite-gen?style=flat-square&color=yellow&label=) |
+| [**nano-banana**](https://github.com/aldegad/nano-banana) | Lightweight image generation skill for Claude Code, powered by Google Gemini API | ![](https://img.shields.io/github/stars/aldegad/nano-banana?style=flat-square&color=yellow&label=) |
+
+---
+
+### ⚡ Tenstorrent
+
+> `console.tenstorrent.com` access — skill harness + standalone CLI.
+
+| Project | What it does | Stars |
+|---|---|:-:|
+| [**tenstorrent**](https://github.com/aldegad/tenstorrent) | Tenstorrent skill — Wan 2.2 text-to-video + OpenAI-compatible chat (DeepSeek-R1 / Qwen3-32B / Qwen3-VL) | ![](https://img.shields.io/github/stars/aldegad/tenstorrent?style=flat-square&color=yellow&label=) |
 | [**tenstorrent-cli**](https://github.com/aldegad/tenstorrent-cli) | Standalone Tenstorrent CLI — chat REPL + Wan 2.2 video generation, no agent harness required | ![](https://img.shields.io/github/stars/aldegad/tenstorrent-cli?style=flat-square&color=yellow&label=) |
+
+---
+
+### 🎈 Apps & Plugins
+
+> Standalone apps and platform plugins.
+
+| Project | What it does | Stars |
+|---|---|:-:|
 | [**my-agent-girlfriend**](https://github.com/aldegad/my-agent-girlfriend) | Playful local desktop companion for Codex — persona-driven reply renderer with anime-style portraits and a SwiftUI floating overlay | ![](https://img.shields.io/github/stars/aldegad/my-agent-girlfriend?style=flat-square&color=yellow&label=) |
 | [**capacitor-geolocation**](https://github.com/aldegad/capacitor-geolocation) | Capacitor geolocation plugin for iOS & Android | ![](https://img.shields.io/github/stars/aldegad/capacitor-geolocation?style=flat-square&color=yellow&label=) |
-| **kuma-studio** *(준비중 — coming soon)* | Playwright-shaped browser sharing for coding agents — picks, job cards, and visible paw feedback in your real browser | — |
+
+---
+
+### 🗂 Etc.
+
+| Project | What it does | Stars |
+|---|---|:-:|
+| [**usage-insights**](https://github.com/aldegad/usage-insights) | Codex skill for analyzing local AI usage and rendering shareable reports / videos | ![](https://img.shields.io/github/stars/aldegad/usage-insights?style=flat-square&color=yellow&label=) |
 
 ---
 
