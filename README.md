@@ -34,10 +34,10 @@
 | Project | What it does | Stars |
 |---|---|:-:|
 | **kuma-studio** *(준비중 — coming soon)* | Playwright-shaped browser sharing for coding agents — picks, job cards, and visible paw feedback in your real browser | — |
-| [**alex-core-invariants**](https://github.com/aldegad/alex-core-invariants) | Canonical seven invariants for AI-assisted engineering — SSoT, SoC/SRP, consistency, atomicity, idempotency, no silent fallback, doc-first & plan-first | ![](https://img.shields.io/github/stars/aldegad/alex-core-invariants?style=flat-square&color=blue&label=) |
-| [**safedeps**](https://github.com/aldegad/safedeps) | Multi-ecosystem (npm/pip/cargo/go/gem/maven/nuget) install safety gate — OSV/KEV/GHSA advisory check, approved-spec ledger, post-install reorg rollback. Successor to `npm-reorg-guard` | ![](https://img.shields.io/github/stars/aldegad/safedeps?style=flat-square&color=blue&label=) |
-| [**skill-hook-authoring**](https://github.com/aldegad/skill-hook-authoring) | Authoring guide for shared Claude Code + Codex CLI skills and hooks — cross-engine install pattern, modern PreToolUse decision schema, canonical payload contract | ![](https://img.shields.io/github/stars/aldegad/skill-hook-authoring?style=flat-square&color=blue&label=) |
-| [**security-threat-intel**](https://github.com/aldegad/security-threat-intel) | Threat intel skill for AI code review — MITRE ATT&CK infostealer mapping, detection checklist, review guidelines | ![](https://img.shields.io/github/stars/aldegad/security-threat-intel?style=flat-square&color=blue&label=) |
+| [**alex-core-invariants**](https://github.com/aldegad/alex-core-invariants) | Canonical seven invariants for AI-assisted engineering — SSoT, SoC/SRP, consistency, atomicity, idempotency, no silent fallback, doc-first & plan-first | ![](https://img.shields.io/github/stars/aldegad/alex-core-invariants?style=social) |
+| [**safedeps**](https://github.com/aldegad/safedeps) | Multi-ecosystem (npm/pip/cargo/go/gem/maven/nuget) install safety gate — OSV/KEV/GHSA advisory check, approved-spec ledger, post-install reorg rollback. Successor to `npm-reorg-guard` | ![](https://img.shields.io/github/stars/aldegad/safedeps?style=social) |
+| [**skill-hook-authoring**](https://github.com/aldegad/skill-hook-authoring) | Authoring guide for shared Claude Code + Codex CLI skills and hooks — cross-engine install pattern, modern PreToolUse decision schema, canonical payload contract | ![](https://img.shields.io/github/stars/aldegad/skill-hook-authoring?style=social) |
+| [**security-threat-intel**](https://github.com/aldegad/security-threat-intel) | Threat intel skill for AI code review — MITRE ATT&CK infostealer mapping, detection checklist, review guidelines | ![](https://img.shields.io/github/stars/aldegad/security-threat-intel?style=social) |
 
 ---
 
@@ -47,9 +47,9 @@
 
 | Project | What it does | Stars |
 |---|---|:-:|
-| [**image-gen**](https://github.com/aldegad/image-gen) | Codex `image_gen` wrapper with fresh exec isolation, verified output paths, chroma-key transparent PNG post-processing | ![](https://img.shields.io/github/stars/aldegad/image-gen?style=flat-square&color=blue&label=) |
-| [**sprite-gen**](https://github.com/aldegad/sprite-gen) | 2D game sprite generation via component-row pipeline — state rows, alpha cleanup, frame extraction, runtime atlases | ![](https://img.shields.io/github/stars/aldegad/sprite-gen?style=flat-square&color=blue&label=) |
-| [**nano-banana**](https://github.com/aldegad/nano-banana) | Lightweight image generation skill for Claude Code, powered by Google Gemini API | ![](https://img.shields.io/github/stars/aldegad/nano-banana?style=flat-square&color=blue&label=) |
+| [**image-gen**](https://github.com/aldegad/image-gen) | Codex `image_gen` wrapper with fresh exec isolation, verified output paths, chroma-key transparent PNG post-processing | ![](https://img.shields.io/github/stars/aldegad/image-gen?style=social) |
+| [**sprite-gen**](https://github.com/aldegad/sprite-gen) | 2D game sprite generation via component-row pipeline — state rows, alpha cleanup, frame extraction, runtime atlases | ![](https://img.shields.io/github/stars/aldegad/sprite-gen?style=social) |
+| [**nano-banana**](https://github.com/aldegad/nano-banana) | Lightweight image generation skill for Claude Code, powered by Google Gemini API | ![](https://img.shields.io/github/stars/aldegad/nano-banana?style=social) |
 
 ---
 
@@ -59,8 +59,8 @@
 
 | Project | What it does | Stars |
 |---|---|:-:|
-| [**tenstorrent**](https://github.com/aldegad/tenstorrent) | Tenstorrent skill — Wan 2.2 text-to-video + OpenAI-compatible chat (DeepSeek-R1 / Qwen3-32B / Qwen3-VL) | ![](https://img.shields.io/github/stars/aldegad/tenstorrent?style=flat-square&color=blue&label=) |
-| [**tenstorrent-cli**](https://github.com/aldegad/tenstorrent-cli) | Standalone Tenstorrent CLI — chat REPL + Wan 2.2 video generation, no agent harness required | ![](https://img.shields.io/github/stars/aldegad/tenstorrent-cli?style=flat-square&color=blue&label=) |
+| [**tenstorrent**](https://github.com/aldegad/tenstorrent) | Tenstorrent skill — Wan 2.2 text-to-video + OpenAI-compatible chat (DeepSeek-R1 / Qwen3-32B / Qwen3-VL) | ![](https://img.shields.io/github/stars/aldegad/tenstorrent?style=social) |
+| [**tenstorrent-cli**](https://github.com/aldegad/tenstorrent-cli) | Standalone Tenstorrent CLI — chat REPL + Wan 2.2 video generation, no agent harness required | ![](https://img.shields.io/github/stars/aldegad/tenstorrent-cli?style=social) |
 
 ---
 
@@ -70,8 +70,8 @@
 
 | Project | What it does | Stars |
 |---|---|:-:|
-| [**my-agent-girlfriend**](https://github.com/aldegad/my-agent-girlfriend) | Playful local desktop companion for Codex — persona-driven reply renderer with anime-style portraits and a SwiftUI floating overlay | ![](https://img.shields.io/github/stars/aldegad/my-agent-girlfriend?style=flat-square&color=blue&label=) |
-| [**capacitor-geolocation**](https://github.com/aldegad/capacitor-geolocation) | Capacitor geolocation plugin for iOS & Android | ![](https://img.shields.io/github/stars/aldegad/capacitor-geolocation?style=flat-square&color=blue&label=) |
+| [**my-agent-girlfriend**](https://github.com/aldegad/my-agent-girlfriend) | Playful local desktop companion for Codex — persona-driven reply renderer with anime-style portraits and a SwiftUI floating overlay | ![](https://img.shields.io/github/stars/aldegad/my-agent-girlfriend?style=social) |
+| [**capacitor-geolocation**](https://github.com/aldegad/capacitor-geolocation) | Capacitor geolocation plugin for iOS & Android | ![](https://img.shields.io/github/stars/aldegad/capacitor-geolocation?style=social) |
 
 ---
 
@@ -79,7 +79,7 @@
 
 | Project | What it does | Stars |
 |---|---|:-:|
-| [**usage-insights**](https://github.com/aldegad/usage-insights) | Codex skill for analyzing local AI usage and rendering shareable reports / videos | ![](https://img.shields.io/github/stars/aldegad/usage-insights?style=flat-square&color=blue&label=) |
+| [**usage-insights**](https://github.com/aldegad/usage-insights) | Codex skill for analyzing local AI usage and rendering shareable reports / videos | ![](https://img.shields.io/github/stars/aldegad/usage-insights?style=social) |
 
 ---
 
@@ -87,8 +87,8 @@
 
 | Project | What I did | Stars |
 |---|---|:-:|
-| [**cdppcorp/KESE-KIT**](https://github.com/cdppcorp/KESE-KIT) | Repository validation guardrails & router consistency checks ([#2](https://github.com/cdppcorp/KESE-KIT/pull/2)) | ![](https://img.shields.io/github/stars/cdppcorp/KESE-KIT?style=flat-square&color=blue&label=) |
-| [**soulduse/ai-token-monitor**](https://github.com/soulduse/ai-token-monitor) | Multi-device leaderboard sync ([#66](https://github.com/soulduse/ai-token-monitor/pull/66)), Codex message-count tracking ([#46](https://github.com/soulduse/ai-token-monitor/pull/46)) | ![](https://img.shields.io/github/stars/soulduse/ai-token-monitor?style=flat-square&color=blue&label=) |
+| [**cdppcorp/KESE-KIT**](https://github.com/cdppcorp/KESE-KIT) | Repository validation guardrails & router consistency checks ([#2](https://github.com/cdppcorp/KESE-KIT/pull/2)) | ![](https://img.shields.io/github/stars/cdppcorp/KESE-KIT?style=social) |
+| [**soulduse/ai-token-monitor**](https://github.com/soulduse/ai-token-monitor) | Multi-device leaderboard sync ([#66](https://github.com/soulduse/ai-token-monitor/pull/66)), Codex message-count tracking ([#46](https://github.com/soulduse/ai-token-monitor/pull/46)) | ![](https://img.shields.io/github/stars/soulduse/ai-token-monitor?style=social) |
 
 ---
 
