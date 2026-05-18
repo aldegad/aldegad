@@ -40,7 +40,7 @@
 
 ---
 
-### 🎨 Image Generation
+### 🎨 Image & Sprite
 
 > Generation skills with verified outputs and clean post-processing.
 
