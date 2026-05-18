@@ -34,8 +34,9 @@
 | Project | What it does | Stars |
 |---|---|:-:|
 | **kuma-studio** *(준비중 — coming soon)* | Playwright-shaped browser sharing for coding agents — picks, job cards, and visible paw feedback in your real browser | — |
-| [**alex-core-invariants**](https://github.com/aldegad/alex-core-invariants) | Canonical six invariants for AI-assisted engineering — SSOT, SoC/SRP, consistency, atomicity, idempotency, no silent fallback | ![](https://img.shields.io/github/stars/aldegad/alex-core-invariants?style=flat-square&color=yellow&label=) |
-| [**npm-reorg-guard**](https://github.com/aldegad/npm-reorg-guard) | Blockchain reorg concept applied to npm — auto-detects and rolls back suspicious package changes | ![](https://img.shields.io/github/stars/aldegad/npm-reorg-guard?style=flat-square&color=yellow&label=) |
+| [**alex-core-invariants**](https://github.com/aldegad/alex-core-invariants) | Canonical seven invariants for AI-assisted engineering — SSoT, SoC/SRP, consistency, atomicity, idempotency, no silent fallback, doc-first & plan-first | ![](https://img.shields.io/github/stars/aldegad/alex-core-invariants?style=flat-square&color=yellow&label=) |
+| [**safedeps**](https://github.com/aldegad/safedeps) | Multi-ecosystem (npm/pip/cargo/go/gem/maven/nuget) install safety gate — OSV/KEV/GHSA advisory check, approved-spec ledger, post-install reorg rollback. Successor to `npm-reorg-guard` | ![](https://img.shields.io/github/stars/aldegad/safedeps?style=flat-square&color=yellow&label=) |
+| [**skill-hook-authoring**](https://github.com/aldegad/skill-hook-authoring) | Authoring guide for shared Claude Code + Codex CLI skills and hooks — cross-engine install pattern, modern PreToolUse decision schema, canonical payload contract | ![](https://img.shields.io/github/stars/aldegad/skill-hook-authoring?style=flat-square&color=yellow&label=) |
 | [**security-threat-intel**](https://github.com/aldegad/security-threat-intel) | Threat intel skill for AI code review — MITRE ATT&CK infostealer mapping, detection checklist, review guidelines | ![](https://img.shields.io/github/stars/aldegad/security-threat-intel?style=flat-square&color=yellow&label=) |
 
 ---
