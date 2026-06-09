@@ -41,6 +41,16 @@
 
 ---
 
+### 📚 Curated Lists
+
+> Source-first reference maps — official docs over vendor hype.
+
+| Project | What it does | Stars |
+|---|---|:-:|
+| [**awesome-geo**](https://github.com/aldegad/awesome-geo) | Source-first map of Generative Engine Optimization (GEO), AEO & AI search — built on official engine docs, not vendor hype. Available in EN · KO · ZH · JA · ES · FR | ![](https://img.shields.io/github/stars/aldegad/awesome-geo?style=flat-square&logo=github&label=%20&color=blue&cacheSeconds=86400) |
+
+---
+
 ### 🎨 Image & Sprite
 
 > Generation skills with verified outputs and clean post-processing.
