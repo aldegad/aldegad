@@ -80,16 +80,9 @@
 
 | Project | What it does | Stars |
 |---|---|:-:|
+| [**artkit**](https://github.com/aldegad/artkit) | Web-based graphics editor for sprites, pixel art & SVG — sprite-sheet frame extraction, in-browser AI background removal (RMBG-1.4), image/audio format conversion. [Live demo](https://artkit.web.app/) | ![](https://img.shields.io/github/stars/aldegad/artkit?style=flat-square&logo=github&label=%20&color=blue&cacheSeconds=86400) |
 | [**my-agent-girlfriend**](https://github.com/aldegad/my-agent-girlfriend) | Playful local desktop companion for Codex — persona-driven reply renderer with anime-style portraits and a SwiftUI floating overlay | ![](https://img.shields.io/github/stars/aldegad/my-agent-girlfriend?style=flat-square&logo=github&label=%20&color=blue&cacheSeconds=86400) |
 | [**capacitor-geolocation**](https://github.com/aldegad/capacitor-geolocation) | Capacitor geolocation plugin for iOS & Android | ![](https://img.shields.io/github/stars/aldegad/capacitor-geolocation?style=flat-square&logo=github&label=%20&color=blue&cacheSeconds=86400) |
-
----
-
-### 🗂 Etc.
-
-| Project | What it does | Stars |
-|---|---|:-:|
-| [**usage-insights**](https://github.com/aldegad/usage-insights) | Codex skill for analyzing local AI usage and rendering shareable reports / videos | ![](https://img.shields.io/github/stars/aldegad/usage-insights?style=flat-square&logo=github&label=%20&color=blue&cacheSeconds=86400) |
 
 ---
 
