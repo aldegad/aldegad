@@ -6,6 +6,7 @@
 
 [![Profile views](https://komarev.com/ghpvc/?username=aldegad&style=flat-square&color=blue)](https://github.com/aldegad)
 [![GitHub followers](https://img.shields.io/github/followers/aldegad?style=flat-square&logo=github&label=followers&color=blue&cacheSeconds=86400)](https://github.com/aldegad)
+[![Tokscale Stats](https://tokscale.ai/api/embed/aldegad/svg?tokens=compact&cost=compact)](https://tokscale.ai/u/aldegad)
 
 </div>
 
