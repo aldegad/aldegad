@@ -7,8 +7,7 @@
 agent skills &nbsp;·&nbsp; browser tooling &nbsp;·&nbsp; security guardrails &nbsp;·&nbsp; AI utilities &nbsp;·&nbsp; mobile plugins
 
 [![GitHub followers](https://img.shields.io/github/followers/aldegad?style=flat-square&logo=github&label=followers&color=blue&cacheSeconds=86400)](https://github.com/aldegad)
-[![Tokscale](https://img.shields.io/badge/Tokscale-%2367%20of%201,676%20·%20top%204%25-1f9cf0?style=flat-square)](https://tokscale.ai/u/aldegad)
-[![Tokscale Stats](https://tokscale.ai/api/embed/aldegad/svg?tokens=compact&cost=compact)](https://tokscale.ai/u/aldegad)
+[![Tokscale rank](https://tokscale.ai/api/badge/aldegad/svg?metric=rank&style=flat-square)](https://tokscale.ai/u/aldegad)
 
 </div>
 
@@ -18,14 +17,11 @@ agent skills &nbsp;·&nbsp; browser tooling &nbsp;·&nbsp; security guardrails &
 
 <div align="center">
 
-<a href="https://tokscale.ai/u/aldegad">
-  <img src="assets/tokscale-2026-wrapped.png" width="560" alt="Tokscale 2026 wrapped — 59.92B tokens, 385,572 messages, 70-day streak" />
-</a>
+[![Tokscale profile — tokens, cost, global rank, contribution activity](https://tokscale.ai/api/embed/aldegad/svg?graph=1&rank=total&tokens=compact&cost=compact)](https://tokscale.ai/u/aldegad)
 
 <sub>
 
-**92B+ tokens** tracked across Claude Code, Codex CLI, Hermes and friends — **#67 of 1,676** on the
-[Tokscale global leaderboard](https://tokscale.ai/leaderboard) (top 4%). 191 active days, 70-day streak and counting.
+Live from [Tokscale](https://tokscale.ai/u/aldegad) — top 4% of 1,676 tracked users, across Claude Code, Codex CLI, Hermes and friends.
 
 </sub>
 
