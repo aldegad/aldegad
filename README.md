@@ -1,17 +1,39 @@
 <div align="center">
 
-# Hi, I'm **darkest_alex** :wave:
+# darkest_alex
 
-*I ship small, high-signal tools that make other developers' lives easier — agent skills, browser tooling, security checks, AI utilities, and mobile plugins.*
+**Small, high-signal tools that make other developers' lives easier.**
+
+agent skills &nbsp;·&nbsp; browser tooling &nbsp;·&nbsp; security guardrails &nbsp;·&nbsp; AI utilities &nbsp;·&nbsp; mobile plugins
 
 [![GitHub followers](https://img.shields.io/github/followers/aldegad?style=flat-square&logo=github&label=followers&color=blue&cacheSeconds=86400)](https://github.com/aldegad)
+[![Tokscale](https://img.shields.io/badge/Tokscale-%2367%20of%201,676%20·%20top%204%25-1f9cf0?style=flat-square)](https://tokscale.ai/u/aldegad)
 [![Tokscale Stats](https://tokscale.ai/api/embed/aldegad/svg?tokens=compact&cost=compact)](https://tokscale.ai/u/aldegad)
 
 </div>
 
 ---
 
-### :hammer_and_wrench: Stack
+## Token Mileage
+
+<div align="center">
+
+<a href="https://tokscale.ai/u/aldegad">
+  <img src="assets/tokscale-2026-wrapped.png" width="560" alt="Tokscale 2026 wrapped — 59.92B tokens, 385,572 messages, 70-day streak" />
+</a>
+
+<sub>
+
+**92B+ tokens** tracked across Claude Code, Codex CLI, Hermes and friends — **#67 of 1,676** on the
+[Tokscale global leaderboard](https://tokscale.ai/leaderboard) (top 4%). 191 active days, 70-day streak and counting.
+
+</sub>
+
+</div>
+
+---
+
+## Stack
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -27,9 +49,9 @@
 
 ---
 
-### 🛡 Foundations & Guardrails
+## Foundations & Guardrails
 
-> Core engineering and safety infrastructure for AI-assisted work.
+<sub>Core engineering and safety infrastructure for AI-assisted work.</sub>
 
 | Project | What it does | Stars |
 |---|---|:-:|
@@ -37,11 +59,12 @@
 | [**alex-core-invariants**](https://github.com/aldegad/alex-core-invariants) | Canonical seven invariants for AI-assisted engineering — SSoT, SoC/SRP, consistency, atomicity, idempotency, no silent fallback, doc-first & plan-first | ![](https://img.shields.io/github/stars/aldegad/alex-core-invariants?style=flat-square&logo=github&label=%20&color=blue&cacheSeconds=86400) |
 | [**safedeps**](https://github.com/aldegad/safedeps) | Stops AI coding agents from installing vulnerable or unapproved dependencies — OSV / CISA KEV / GitHub Advisory pre-approval, npm lockfile-closure enforcement, and auto-rollback. Claude Code & Codex, local, zero-dep | ![](https://img.shields.io/github/stars/aldegad/safedeps?style=flat-square&logo=github&label=%20&color=blue&cacheSeconds=86400) |
 | [**skill-hook-authoring**](https://github.com/aldegad/skill-hook-authoring) | Authoring guide for shared Claude Code + Codex CLI skills and hooks — cross-engine install pattern, modern PreToolUse decision schema, canonical payload contract | ![](https://img.shields.io/github/stars/aldegad/skill-hook-authoring?style=flat-square&logo=github&label=%20&color=blue&cacheSeconds=86400) |
+
 ---
 
-### 📚 Curated Lists
+## Curated Lists
 
-> Source-first reference maps — official docs over vendor hype.
+<sub>Source-first reference maps — official docs over vendor hype.</sub>
 
 | Project | What it does | Stars |
 |---|---|:-:|
@@ -49,19 +72,20 @@
 
 ---
 
-### 🎨 Image & Sprite
+## Image & Sprite
 
-> Generation skills with verified outputs and clean post-processing.
+<sub>Generation skills with verified outputs and clean post-processing.</sub>
 
 | Project | What it does | Stars |
 |---|---|:-:|
 | [**image-gen**](https://github.com/aldegad/image-gen) | Codex `image_gen` wrapper with fresh exec isolation, verified output paths, chroma-key transparent PNG post-processing | ![](https://img.shields.io/github/stars/aldegad/image-gen?style=flat-square&logo=github&label=%20&color=blue&cacheSeconds=86400) |
 | [**sprite-gen**](https://github.com/aldegad/sprite-gen) | 2D game sprite generation via component-row pipeline — state rows, alpha cleanup, frame extraction, runtime atlases | ![](https://img.shields.io/github/stars/aldegad/sprite-gen?style=flat-square&logo=github&label=%20&color=blue&cacheSeconds=86400) |
+
 ---
 
-### ⚡ Tenstorrent
+## Tenstorrent
 
-> `console.tenstorrent.com` access — skill harness + standalone CLI.
+<sub><code>console.tenstorrent.com</code> access — skill harness + standalone CLI.</sub>
 
 | Project | What it does | Stars |
 |---|---|:-:|
@@ -70,17 +94,18 @@
 
 ---
 
-### 🎈 Apps & Plugins
+## Apps & Plugins
 
-> Standalone apps and platform plugins.
+<sub>Standalone apps and platform plugins.</sub>
 
 | Project | What it does | Stars |
 |---|---|:-:|
 | [**artkit**](https://github.com/aldegad/artkit) | Web-based graphics editor for sprites, pixel art & SVG — sprite-sheet frame extraction, in-browser AI background removal (RMBG-1.4), image/audio format conversion. [Live demo](https://artkit.web.app/) | ![](https://img.shields.io/github/stars/aldegad/artkit?style=flat-square&logo=github&label=%20&color=blue&cacheSeconds=86400) |
 | [**my-agent-girlfriend**](https://github.com/aldegad/my-agent-girlfriend) | Playful local desktop companion for Codex — persona-driven reply renderer with anime-style portraits and a SwiftUI floating overlay | ![](https://img.shields.io/github/stars/aldegad/my-agent-girlfriend?style=flat-square&logo=github&label=%20&color=blue&cacheSeconds=86400) |
+
 ---
 
-### :handshake: Open Source Contributions
+## Open Source Contributions
 
 | Project | What I did | Stars |
 |---|---|:-:|
@@ -89,7 +114,7 @@
 
 ---
 
-### :chart_with_upwards_trend: Stats
+## Activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=aldegad&hide_border=true&theme=default" alt="Streak stats" />
